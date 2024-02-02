@@ -2,7 +2,7 @@
 ![Screenshot 2024-02-02 152522](https://github.com/clintboyett01/3D-Pathfinfing-Simulation/assets/37661122/29aa9fb7-bc39-4c5e-aba7-bc93d127d21f)
 
 ## Introduction or Project Overview
-This project presents a comprehensive 3D pathfinding simulation environment that leverages procedurally generated graphs. Designed and developed using Unity and C#, it aims to visualize the workings of various pathfinding algorithms within dynamically created 3D spaces. The purpose of this project is to offer insights into algorithmic pathfinding by simulating different scenarios and graph configurations in a visually engaging manner.
+I made this project in 2021, but was using Unity Version Control at the time instead of GitHub. This project is 3D pathfinding simulation that uses procedurally generated graphs. I designed and developed this project using Unity and C#, it aims to visualize the workings of various pathfinding algorithms within dynamically created 3D spaces. The purpose of this project is to offer insights into algorithmic pathfinding by simulating different scenarios and graph configurations in a visually engaging manner.
 
 ## Key Features
 The 3D Pathfinding Simulation offers several distinctive features, including:
